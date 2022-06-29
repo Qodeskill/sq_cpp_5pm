@@ -2,5 +2,11 @@
 using namespace std;
 int main()
 {
-cout<<"for git demo";
+    int a,b;
+    cout<<"for git demo";
+    cout<<"\na  : ";
+    cin>>a;
+    cout<<"\nb  : ";
+    cin>>b;
+    cout<<"\n a+b"<<a+b;
 }
